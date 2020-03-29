@@ -9,7 +9,7 @@ pip install krinn
 ```
 
 ## Please Note
-For now crawling of products like book or multiple proce based on size are not supported.
+For now crawling of products like book or multiple product based on size are not supported.
 
 ## Usage
 
